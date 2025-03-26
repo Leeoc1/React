@@ -8,12 +8,18 @@ import reportWebVitals from "./reportWebVitals";
 // import Clock from "./chapter_4/Clock";
 // import CommentList from "./chapter_5/CommentList";
 // import NotificationList from "./chapter_6/NotificationList";
-import Counter from "./chapter_7/Counter";
+// import Counter from "./chapter_7/Counter";
+// import Accommodate from "./chapter_7/Accommodate";
+// import ConfirmButton from "./chapter_8/ConfirmButton";
+// import LandingPage from "./chapter_9/LandingPage";
+// import AttendanceBook from "./chapter_10/AttendanceBook";
+// import SignUp from "./chapter_10/SignUp";
+import Calculator from "./chapter_12/Calculator";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Counter />
+    <Calculator />
   </React.StrictMode>
 );
 
